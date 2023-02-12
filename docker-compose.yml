@@ -54,5 +54,9 @@ services:
 
 
   # docker run -it php:8.0-apache bash
+  # docker system prune
+  # docker inspect <id_do_container> | grep "IPAddress"
+
+
 
 
